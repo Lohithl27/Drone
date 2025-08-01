@@ -1,12 +1,6 @@
 # Bird_detection
 A possible solution to avoid airplane nightmare.
 
-Directions:
-
-  1) Clone the project to your PC.
-  2) Run the Bird_detection.py file on your terminal.
-     You can use web-cam for real-time detection just by changing the video name in the python file with 0 (0 is the default web-cam number if you are connected to only one).
-
 Introduction:
   
   Many airplane disasters till date have taken place because of birds. Birds flying near the runways are a constant threat
